@@ -4,7 +4,7 @@
 <p align="center"> 🍁 M 4 R M U 🍁</p>
 <p align="center"> 🇲🇲 </p>
 
-<img src="IMG_20200428_000058.jpg" alt="hackerpro_logo" height="205" width="250"> 
+<img src="5_SohoHindi.in--.jpg" alt="hackerpro_logo" height="205" width="250"> 
 
 
 
