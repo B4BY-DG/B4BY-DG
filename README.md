@@ -1,10 +1,14 @@
 ***MarMu*** :shipit:
 
-- 🍁 Hi, I’m @B4BY-DR4G0N  🍁 🍁 🍁
-- 🎭 I’m interested in ... H4CK1NG  🎭 
-- 🗽 I’m currently learning ... PROGRAMMING 🗽 
-- 💞️ I’m looking for ... A G1RL 💞
-- 🙈 How to kiss me ... 😘😘
+- 🍁 Hi, I’m @B4BY-DR4G0N  
+
+- 🎭 I’m interested in ... H4CK1NG   
+
+- 🗽 I’m currently learning ... PROGRAMMING 
+ 
+- 💞️ I’m looking for ... A G1RL 
+
+- 🙈 How to kiss me ... 😘
 
 
 <!---
