@@ -4,7 +4,7 @@
 <p align="center"> 🇲🇲 </p>
 
 
-[![](https://img.shields.io/badge/M4RMU-TERMUX-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG)
+[![](https://img.shields.io/badge/M4RMU-TERMUX-gray?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG)
 
               
 <img src="IMG_20211229_173621.jpg" alt="hackerpro_logo" height="205" width="250"> 
