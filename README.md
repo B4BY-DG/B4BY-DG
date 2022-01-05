@@ -2,13 +2,13 @@
 
 - 🍁 Hi, I’m @B4BY-DR4G0N  
 
-- I 💖 H4CK1NG   
+- I ❤️ H4CK1NG   
 
 - 🗽 Learning ... PROGRAMMING 
  
 - 💞️ I’m looking for ... A G1RL 
 
-- 💋 How to kiss me ... 😘
+- 😘 How to kiss me ... 💋
 
 ![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 
