@@ -2,7 +2,7 @@
 
 - 🍁 Hi, I’m @B4BY-DR4G0N  
 
-- 🎭 I 💖 H4CK1NG   
+- I 💖 H4CK1NG   
 
 - 🗽 Learning ... PROGRAMMING 
  
