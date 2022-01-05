@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @B4BY-DG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+*** MarMu *** :shipit:
 
-***Technology By MarMu***
+- 🍁 Hi, I’m @B4BY-DR4G0N  🍁 🍁 🍁
+- 🎭 I’m interested in ... H4CK1NG  🎭 
+- 🗽 I’m currently learning ... PROGRAMMING 🗽 
+- 💞️ I’m looking for ... A G1RL 💞
+- 🙈 How to kiss me ... 😘😘
 
 
 <!---
