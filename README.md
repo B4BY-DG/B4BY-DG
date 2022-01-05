@@ -6,11 +6,10 @@
 
 - 🗽 Learning ... PROGRAMMING 
  
-- 💞️ I’m looking for ... A G1RL 
 
-- 😘 How to kiss me ... 💋
+![GitHub Dark](https://github.com/github-IMG_20220104_230411_008.jpg#gh-light-mode-only)
 
-![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+![marmu](https://myoctocat.com/assets/images/base-IMG_20220104_230411_008.jpg)
 
 ![marmu](https://myoctocat.com/assets/images/base-octocat.svg)
 
