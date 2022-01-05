@@ -7,9 +7,12 @@
 - 🗽 Learning ... PROGRAMMING 
  
 
-![GitHub Dark](https://github.com/github-IMG_20220104_230411_008.jpg#gh-light-mode-only)
+<p align="center"> 🍁 M A R M U 🍁</p>
 
-![marmu](https://myoctocat.com/assets/images/base-IMG_20220104_230411_008.jpg)
+[![](https://img.shields.io/badge/MARMU-B4BY_DG-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG)
+
+<img src="IMG_20220104_230411_008.jpg" alt="hackerpro_logo" height="205" width="250"> 
+
 
 ![marmu](https://myoctocat.com/assets/images/base-octocat.svg)
 
