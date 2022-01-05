@@ -3,9 +3,9 @@
 <p align="center"> 🍁 M 4 R M U 🍁</p>
 <p align="center"> 🇲🇲 </p>
 
-<p align="center">
+
 [](https://img.shields.io/badge/M4RMU-TERMUX-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG)
-</p> 
+
               
 <img src="IMG_20211229_173621.jpg" alt="hackerpro_logo" height="205" width="250"> 
 
