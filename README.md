@@ -7,7 +7,7 @@
 
 [![](https://img.shields.io/badge/M4RMU-TERMUX-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG) 
               
-[![](https://img.shields.io/badge/GitHub-M4RMU*-*B4BY_DG-orange?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG) 
+[![](https://img.shields.io/badge/GitHub-M4RMU*-*B4BY_DG-pink?style=for-the-badge&logoColor=red&labelColor=blue)](https://github.com/B4BY-DG) 
 
 
 <!---
