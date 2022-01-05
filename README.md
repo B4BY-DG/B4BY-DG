@@ -10,6 +10,9 @@
 
 - 💋 How to kiss me ... 😘
 
+![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+
+![marmu](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!---
 B4BY-DG/B4BY-DG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
