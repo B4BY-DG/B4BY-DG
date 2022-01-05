@@ -4,11 +4,10 @@
 <p align="center"> 🍁 M 4 R M U 🍁</p>
 <p align="center"> 🇲🇲 </p>
 
-<img src="5_SohoHindi.in--.jpg" alt="hackerpro_logo" height="205" width="250"> 
+<img src="1fae9d24d187d9cb49cf7304eb7c9978.jpg" alt="hackerpro_logo" height="205" width="250"> 
 
 
 
-![marmu](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <!---
 B4BY-DG/B4BY-DG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
