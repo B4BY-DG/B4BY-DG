@@ -24,6 +24,9 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marmu007@yahoo.com)
 ![Upwork](https://img.shields.io/badge/MY4NM4R-lightpurple?style=for-the-badge&logo=upwork&logoColor=black)
 
+<!-- Most Used Languages -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4BY-DG&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
 
 <!---
 B4BY-DG/B4BY-DG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
