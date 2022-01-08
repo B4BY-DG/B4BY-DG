@@ -20,7 +20,7 @@ target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ico
 href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.m.facebook.com/marmu.007)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.m.facebook.com/marmu.007)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.zk.2001@gmail.com)
 ![Upwork](https://img.shields.io/badge/Upwork-73bb44?style=for-the-badge&logo=upwork&logoColor=white)
 
