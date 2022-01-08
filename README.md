@@ -22,7 +22,7 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.m.facebook.com/marmu.007)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.zk.2001@gmail.com)
-![Upwork](https://img.shields.io/badge/MY4NM4R-yellow?style=for-the-badge&logo=upwork&logoColor=white)
+![Upwork](https://img.shields.io/badge/MY4NM4R-lightblue?style=for-the-badge&logo=upwork&logoColor=black)
 
 
 <!---
