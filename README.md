@@ -4,7 +4,7 @@
 <p align="center"> 🇲🇲 </p>
 
 
-[![](https://img.shields.io/badge/M4RMU-TERMUX-purple?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG)
+[![](https://img.shields.io/badge/M4RMU-TERMUX-lightblue?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG)
 
               
 <img src="IMG_20211229_173621.jpg" alt="hackerpro_logo" height="205" width="250"> 
@@ -21,7 +21,7 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.m.facebook.com/marmu.007)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad.zk.2001@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marmu007@yahoo.com)
 ![Upwork](https://img.shields.io/badge/MY4NM4R-lightpurple?style=for-the-badge&logo=upwork&logoColor=black)
 
 
