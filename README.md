@@ -22,7 +22,7 @@ href="https://www.mathworks.com/" target="_blank"> </a> <a href="https://www.mys
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.m.facebook.com/marmu.007)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marmu007@yahoo.com)
-![Upwork](https://img.shields.io/badge/ငတက် ြပ-ားlightpurple?style=for-the-badge&logo=upwork&logoColor=black)
+![Upwork](https://img.shields.io/badge/ငတက် ြပ-ား-lightpurple?style=for-the-badge&logo=upwork&logoColor=black)
 
 <!-- Most Used Languages -->
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4BY-DG&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
