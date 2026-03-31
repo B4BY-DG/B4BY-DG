@@ -4,6 +4,11 @@
 <p align="center"> 🇲🇲 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=3000&color=FFEB3B&center=true&width=800&lines=Hii+👋;I'am+့+M+A+R+M+U+Singh;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+</p>
+
+
 [![](https://img.shields.io/badge/M4RMU-T3RMU×-lightblue?style=for-the-badge&logoColor=red&labelColor=black)](https://github.com/B4BY-DG)
 
               
